@@ -1,0 +1,24 @@
+https://pandas.pydata.org/docs/reference/api/pandas.Series.html
+
+https://github.com/programacaodinamica/dicas-pandas/blob/master/Vari%C3%A1veis%20categ%C3%B3ricas%20-%20Dica%20Pandas%20%236.ipynb
+
+https://www.kaggle.com/code/residentmario/data-types-and-missing-values
+
+https://github.com/LuisCSGuimaraes/AnaliseAirbnbToronto/blob/main/Notebook/Analisando%20os%20Dados%20de%20Toronto%20-%20Canada%20-%20Airbnb.ipynb
+
+grafico pizza (5:40)
+https://www.youtube.com/watch?v=IC6F4Tcta3g
+
+
+https://dados.gov.br/home
+
+https://dadosabertos.tse.jus.br/
+
+https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados
+
+
+****************iteração em python
+
+https://www.youtube.com/watch?v=ExI3XQ2VUEk
+
+https://www.youtube.com/watch?v=YUeiAhpPMjQ&list=PL4OAe-tL47sY8SGhtkGoP0eQd4le3badz&index=20
